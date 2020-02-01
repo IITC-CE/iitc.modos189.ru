@@ -57,32 +57,6 @@ body {
     flex-direction: column;
 }
 
-.favicon {
-    width: 16px;
-    height: 16px;
-    margin: 2px;
-    vertical-align: top;
-}
-
-.emphase {
-    background: #f5f5f5;
-    padding: 0.3em 0.4em;
-    margin: 2px 4px 0 4px;
-    display: inline-block;
-    color: #0081bf;
-    font-weight: 500;
-    border-radius: 2px;
-    border: 1px solid #eee;
-}
-
-.emphase:hover {
-    background: #eee;
-}
-
-code {
-    font-size: 0.9em;
-}
-
 strong {
     font-weight: bold;
 }
